@@ -6,3 +6,4 @@
  * Time: 21:10
  */
 echo phpinfo();
+echo 'this is dev';
